@@ -7,7 +7,7 @@ if (process.argv.length<3) {
 /*
 0 node
 1 mongo.js
-2 supersalasana00
+2 the password here
 3 nimi
 4 numero
  */
