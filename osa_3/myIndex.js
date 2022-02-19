@@ -2,8 +2,8 @@ const http = require('http')
 
 /*
 const mongoose = require('mongoose')
-//supersalasana00
-const password = "supersalasana00"
+
+const password = null
 const url =
     `mongodb+srv://fullstack:${password}@cluster0.3ie7p.mongodb.net/phoneBookApp?retryWrites=true&w=majority`
 
